@@ -1,4 +1,4 @@
-# Hi there 👋🏻
+# Hey there 👋🏻
 
 I am [z2](https://github.com/z2-2z) and I do vulnerability research 🔬.
 
