@@ -7,4 +7,4 @@ You can find the most interesting stuff on my blog https://z2-2z.github.io or on
 * HackerOne: [z2_](https://hackerone.com/z2_)
 
 My work accounts are
-* [@pd-fkie](https://github.com/pd-fkie) for the Fraunhofer Institute Germany (2020 - present)
+* [@pd-fkie](https://github.com/pd-fkie) for the Fraunhofer Institute Germany (2020 - 2025)
