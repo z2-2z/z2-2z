@@ -11,6 +11,7 @@ My work accounts are
 
 ## My Zoo
 
+|||
 |---|---|
 | <center><img src="icons/cheetah.png" width="64"></center> | A high-performance fuzzer runtime implementing a forkserver and testcase passing all over shared memory |
 
