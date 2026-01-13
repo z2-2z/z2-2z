@@ -13,9 +13,9 @@ My work accounts are
 
 <table>
     <tr>
-        <td align="center">
+        <td>
             <center>
-                <a href="https://github.com/z2-2z/cheetah" align="center">
+                <a href="https://github.com/z2-2z/cheetah">
                     <img src="icons/cheetah.png" width="64">
                     <br>
                     cheetah
