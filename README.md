@@ -13,12 +13,14 @@ My work accounts are
 
 <table>
     <tr>
-        <td>
-            <a href="https://github.com/z2-2z/cheetah" align="center">
-                <img src="icons/cheetah.png" width="64">
-                <br>
-                cheetah
-            </a>
+        <td align="center">
+            <center>
+                <a href="https://github.com/z2-2z/cheetah" align="center">
+                    <img src="icons/cheetah.png" width="64">
+                    <br>
+                    cheetah
+                </a>
+            </center>
         </td>
         <td>
             A high-performance fuzzer runtime implementing a forkserver and testcase passing all over shared memory
