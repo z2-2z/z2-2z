@@ -9,10 +9,11 @@ You can find my research on my blog https://z2-2z.github.io or on my socials:
 My work accounts are
 * [@pd-fkie](https://github.com/pd-fkie) for the Fraunhofer Institute Germany (2020 - 2025)
 
-## My Zoo
+### My Zoo
 
 |||
 |---|---|
 | <center><img src="icons/cheetah.png" width="64"></center> | A high-performance fuzzer runtime implementing a forkserver and testcase passing all over shared memory |
+| <center><img src="icons/chameleon.png" width="64"></center> | A grammar-based fuzzer based on Gramatron but where the production rules of a grammar are compiled into code for maximum efficiency |
 
 <!-- https://www.iconshock.com/flat-icons/animals-icons/ -->
