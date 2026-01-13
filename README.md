@@ -28,9 +28,9 @@ My work accounts are
         <td align="center">
             <a href="https://github.com/z2-2z/squid" align="center">
                 <img src="icons/squid.png" width="56">
-                <br>
-                squid
             </a>
+            <br>
+            <span>squid</span>
         </td>
         <td>
             A RISC-V emulator for emulation-based fuzzing but with AOT instead of JIT compilation and the ability to have any crash oracle you like
