@@ -70,7 +70,7 @@ My work accounts are
             <span>dove</span>
         </td>
         <td>
-            My own static site generator that generates the blog I host on https://z2-2z.github.io
+            My own static site generator that generates the blog I host on z2-2z.github.io
         </td>
     </tr>
 </table>
