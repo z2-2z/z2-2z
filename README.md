@@ -9,7 +9,7 @@ You can find my research on my blog https://z2-2z.github.io or on my socials:
 My work accounts are
 * [@pd-fkie](https://github.com/pd-fkie) for the Fraunhofer Institute Germany (2020 - 2025)
 
-<!-- https://www.iconshock.com/flat-icons/animals-icons/ -->
+<br>
 
 ## My Zoo
 
@@ -76,3 +76,5 @@ My work accounts are
         </td>
     </tr>
 </table>
+
+<!-- https://www.iconshock.com/flat-icons/animals-icons/ -->
