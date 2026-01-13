@@ -16,9 +16,9 @@ My work accounts are
         <td align="center">
             <a href="https://github.com/z2-2z/chameleon" align="center">
                 <img src="icons/chameleon.png" width="56">
-                <br>
-                chameleon
             </a>
+            <br>
+            <span>chameleon</span>
         </td>
         <td>
             A grammar-based fuzzer based on Gramatron but where the production rules of a grammar are compiled into code for maximum efficiency
@@ -40,9 +40,9 @@ My work accounts are
         <td align="center">
             <a href="https://github.com/z2-2z/cheetah" align="center">
                 <img src="icons/cheetah.png" width="64">
-                <br>
-                cheetah
             </a>
+            <br>
+            <span>cheetah</span>
         </td>
         <td>
             A high-performance fuzzer runtime implementing a forkserver and testcase passing all over shared memory
@@ -52,9 +52,9 @@ My work accounts are
         <td align="center">
             <a href="https://github.com/z2-2z/butterfly" align="center">
                 <img src="icons/butterfly.png" width="56">
-                <br>
-                butterfly
             </a>
+            <br>
+            <span>butterfly</span>
         </td>
         <td>
             A crate with LibAFL helper components whenever you are doing fuzzing of network applications or network protocols, e.g. packet-based inputs
@@ -65,9 +65,9 @@ My work accounts are
         <td align="center">
             <a href="https://github.com/z2-2z/dove" align="center">
                 <img src="icons/dove.png" width="56">
-                <br>
-                dove
             </a>
+            <br>
+            <span>dove</span>
         </td>
         <td>
             My own static site generator that generates the blog I host on <a href="https://z2-2z.github.io">https://z2-2z.github.io</a>
