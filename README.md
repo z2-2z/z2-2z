@@ -8,3 +8,11 @@ You can find my research on my blog https://z2-2z.github.io or on my socials:
 
 My work accounts are
 * [@pd-fkie](https://github.com/pd-fkie) for the Fraunhofer Institute Germany (2020 - 2025)
+
+# My Zoo
+
+| Project | Description |
+|---|---|
+| <center><img src="icons/cheetah.png" width="32"></center>cheetah | A high-performance fuzzer runtime implementing a forkserver and testcase passing all over shared memory |
+
+<!-- https://www.iconshock.com/flat-icons/animals-icons/ -->
