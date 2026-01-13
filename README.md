@@ -14,18 +14,6 @@ My work accounts are
 <table>
     <tr>
         <td align="center">
-            <a href="https://github.com/z2-2z/cheetah" align="center">
-                <img src="icons/cheetah.png" width="64">
-                <br>
-                cheetah
-            </a>
-        </td>
-        <td>
-            A high-performance fuzzer runtime implementing a forkserver and testcase passing all over shared memory
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
             <a href="https://github.com/z2-2z/chameleon" align="center">
                 <img src="icons/chameleon.png" width="64">
                 <br>
@@ -46,6 +34,18 @@ My work accounts are
         </td>
         <td>
             A RISC-V emulator for emulation-based fuzzing but with AOT instead of JIT compilation and the ability to have any crash oracle you like
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/z2-2z/cheetah" align="center">
+                <img src="icons/cheetah.png" width="64">
+                <br>
+                cheetah
+            </a>
+        </td>
+        <td>
+            A high-performance fuzzer runtime implementing a forkserver and testcase passing all over shared memory
         </td>
     </tr>
     <tr>
