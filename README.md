@@ -15,7 +15,8 @@ My work accounts are
     <tr>
         <td>
             <center>
-                <a href="https://github.com/z2-2z/cheetah"><img src="icons/cheetah.png" width="64"></a>
+                <a href="https://github.com/z2-2z/cheetah"><img src="icons/cheetah.png" width="64"></a><br>
+                cheetah
             </center>
         </td>
         <td>
@@ -25,7 +26,8 @@ My work accounts are
     <tr>
         <td>
             <center>
-                <a href="https://github.com/z2-2z/chameleon"><img src="icons/chameleon.png" width="64px"></a>
+                <a href="https://github.com/z2-2z/chameleon"><img src="icons/chameleon.png" width="64"></a><br>
+                chameleon
             </center>
         </td>
         <td>
