@@ -11,8 +11,6 @@ My work accounts are
 
 ## My Zoo
 
-| Project | Description |
-|---|---|
 | <center><img src="icons/cheetah.png" width="64"></center> | A high-performance fuzzer runtime implementing a forkserver and testcase passing all over shared memory |
 
 <!-- https://www.iconshock.com/flat-icons/animals-icons/ -->
