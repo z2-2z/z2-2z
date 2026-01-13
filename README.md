@@ -25,7 +25,7 @@ My work accounts are
     <tr>
         <td>
             <center>
-                <a href="https://github.com/z2-2z/chameleon"><img src="icons/chameleon.png" width="64"></a>
+                <a href="https://github.com/z2-2z/chameleon"><img src="icons/chameleon.png" width="64px"></a>
             </center>
         </td>
         <td>
