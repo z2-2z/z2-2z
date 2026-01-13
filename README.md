@@ -15,7 +15,7 @@ My work accounts are
     <tr>
         <td align="center">
             <a href="https://github.com/z2-2z/chameleon" align="center">
-                <img src="icons/chameleon.png" width="64">
+                <img src="icons/chameleon.png" width="56">
                 <br>
                 chameleon
             </a>
@@ -27,7 +27,7 @@ My work accounts are
     <tr>
         <td align="center">
             <a href="https://github.com/z2-2z/squid" align="center">
-                <img src="icons/squid.png" width="64">
+                <img src="icons/squid.png" width="56">
                 <br>
                 squid
             </a>
@@ -51,7 +51,7 @@ My work accounts are
     <tr>
         <td align="center">
             <a href="https://github.com/z2-2z/butterfly" align="center">
-                <img src="icons/butterfly.png" width="64">
+                <img src="icons/butterfly.png" width="56">
                 <br>
                 butterfly
             </a>
@@ -64,7 +64,7 @@ My work accounts are
     <tr>
         <td align="center">
             <a href="https://github.com/z2-2z/dove" align="center">
-                <img src="icons/dove.png" width="64">
+                <img src="icons/dove.png" width="56">
                 <br>
                 dove
             </a>
