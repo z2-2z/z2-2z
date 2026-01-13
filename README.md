@@ -14,42 +14,47 @@ My work accounts are
 <table>
     <tr>
         <td align="center">
-                <a href="https://github.com/z2-2z/cheetah" align="center">
-                    <img src="icons/cheetah.png" width="64">
-                    <br>
-                    cheetah
-                </a>
+            <a href="https://github.com/z2-2z/cheetah" align="center">
+                <img src="icons/cheetah.png" width="64">
+                <br>
+                cheetah
+            </a>
         </td>
         <td>
             A high-performance fuzzer runtime implementing a forkserver and testcase passing all over shared memory
         </td>
     </tr>
     <tr>
-        <td>
-            <center>
-                <a href="https://github.com/z2-2z/chameleon"><img src="icons/chameleon.png" width="64"></a><br>
+        <td align="center">
+            <a href="https://github.com/z2-2z/chameleon" align="center">
+                <img src="icons/chameleon.png" width="64">
+                <br>
                 chameleon
-            </center>
+            </a>
         </td>
         <td>
             A grammar-based fuzzer based on Gramatron but where the production rules of a grammar are compiled into code for maximum efficiency
         </td>
     </tr>
     <tr>
-        <td>
-            <center>
-                <a href="https://github.com/z2-2z/squid"><img src="icons/squid.png" width="64"></a>
-            </center>
+        <td align="center">
+            <a href="https://github.com/z2-2z/squid" align="center">
+                <img src="icons/squid.png" width="64">
+                <br>
+                squid
+            </a>
         </td>
         <td>
             A RISC-V emulator for emulation-based fuzzing but with AOT instead of JIT compilation and the ability to have any crash oracle you like
         </td>
     </tr>
     <tr>
-        <td>
-            <center>
-                <a href="https://github.com/z2-2z/butterfly"><img src="icons/butterfly.png" width="64"></a>
-            </center>
+        <td align="center">
+            <a href="https://github.com/z2-2z/butterfly" align="center">
+                <img src="icons/butterfly.png" width="64">
+                <br>
+                butterfly
+            </a>
         </td>
         <td>
             A crate with LibAFL helper components whenever you are doing fuzzing of network applications or network protocols, e.g. packet-based inputs
@@ -57,10 +62,12 @@ My work accounts are
         </td>
     </tr>
     <tr>
-        <td>
-            <center>
-                <a href="https://github.com/z2-2z/dove"><img src="icons/dove.png" width="64"></a>
-            </center>
+        <td align="center">
+            <a href="https://github.com/z2-2z/dove" align="center">
+                <img src="icons/dove.png" width="64">
+                <br>
+                dove
+            </a>
         </td>
         <td>
             My own static site generator that generates the blog I host on <a href="https://z2-2z.github.io">https://z2-2z.github.io</a>
