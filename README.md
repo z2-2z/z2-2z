@@ -11,8 +11,27 @@ My work accounts are
 
 ### My Zoo
 
-| <center><a href="/z2-2z/cheetah"><img src="icons/cheetah.png" width="64"></a></center> | A high-performance fuzzer runtime implementing a forkserver and testcase passing all over shared memory |
-| <center><a href="/z2-2z/chameleon"><img src="icons/chameleon.png" width="64"></a></center> | A grammar-based fuzzer based on Gramatron but where the production rules of a grammar are compiled into code for maximum efficiency |
-
+<table>
+    <tr>
+        <td>
+            <center>
+                <a href="/z2-2z/cheetah"><img src="icons/cheetah.png" width="64"></a>
+            </center>
+        </td>
+        <td>
+            A high-performance fuzzer runtime implementing a forkserver and testcase passing all over shared memory
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <center>
+                <a href="/z2-2z/chameleon"><img src="icons/chameleon.png" width="64"></a>
+            </center>
+        </td>
+        <td>
+            A grammar-based fuzzer based on Gramatron but where the production rules of a grammar are compiled into code for maximum efficiency
+        </td>
+    </tr>
+</table>
 
 <!-- https://www.iconshock.com/flat-icons/animals-icons/ -->
